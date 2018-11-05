@@ -1,2 +1,2 @@
-# MagamedNG.github.io
+# Magamed NG
 First 
